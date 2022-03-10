@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Postingan Pertamax",
+      "author": "Ahmad Fauzi"
+    },
+    {
+      "id": 3,
+      "title": "Ini postingan keduax",
+      "author": "Gery Akbar Fauzi"
+    },
+    {
+      "title": "Belajar CRUD dengan lokal API",
+      "author": "Gery Akbar Fauzi",
+      "id": 5
+    },
+    {
+      "title": "Balajar React Native",
+      "author": "Gery Ahmad Fauzi",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
